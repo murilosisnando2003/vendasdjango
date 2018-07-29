@@ -1,3 +1,7 @@
+Erro psycopy
+pip install http://initd.org/psycopg/upload/psycopg2-2.7.3.1.dev0/psycopg2-2.7.3.1.dev0-cp36-cp36m-manylinux1_x86_64.whl
+instalar pycopy versão 2.7 ou superior
+
 install:
 	pip install -r requirements.txt
 

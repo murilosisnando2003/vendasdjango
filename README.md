@@ -25,7 +25,7 @@ Inicialmente eu quero explorar as bibliotecas do [class based views][2] como [Te
 # Baixando e rodando a app
 
 ```bash
-$ git clone https://github.com/rg3915/vendas.git
+$ git clone https://github.com/murilosisnando2003/vendasdjango.git
 cd vendas
 python -m venv .venv # python3
 source .venv/bin/activate
